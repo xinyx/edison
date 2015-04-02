@@ -31,7 +31,4 @@ http://www.intel.com/support/edison/sb/CS-035380.htm?wapkw=wifi+edison
 * [Yocoto Source Repositoris](http://git.yoctoproject.org/cgit.cgi)
 * [Yocoto BSP User Guide](http://www.intel.com/support/edison/sb/CS-035278.htm)
 
-## 模块资料
-
-http://bbs.ickey.cn/group-topic-id-45783.html
 
