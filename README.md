@@ -7,7 +7,7 @@ https://software.intel.com/iot/getting-started
 ## 刷新固件:
 
 * [常用刷新](https://communities.intel.com/docs/DOC-23200)
-* [恢复固件|Building xFSTK on Ubuntu 14.04 (32-bit) for flashing Edison](https://communities.intel.com/message/257193#257193)
+* [恢复固件|Building xFSTK on Ubuntu 14.04 (32-bit) for flashing Edison](https://communities.intel.com/message/257193#257193)  
 		./flashall --recovery: 执行恢复过程
 * 单个文件刷新
 	当edison提示"GADGET DRIVER: usb_dnl_dfu"时, 用dfu-util刷新. 例如刷新u-boot-edison.bin:
